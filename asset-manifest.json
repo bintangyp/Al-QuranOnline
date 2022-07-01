@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/al-quranOnline/static/css/main.33afb78a.css",
+    "main.js": "/al-quranOnline/static/js/main.db8696f4.js",
+    "index.html": "/al-quranOnline/index.html",
+    "main.33afb78a.css.map": "/al-quranOnline/static/css/main.33afb78a.css.map",
+    "main.db8696f4.js.map": "/al-quranOnline/static/js/main.db8696f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33afb78a.css",
+    "static/js/main.db8696f4.js"
+  ]
+}
